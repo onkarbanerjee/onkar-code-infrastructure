@@ -1,0 +1,4 @@
+repo-name = "onkar-test-repo"
+description = "test-repo-for-terraform"
+visibility = "private"
+gitignore_template = "Go"
